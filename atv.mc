@@ -32,7 +32,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyPACURL</key>
-			<string>https://aid666.github.io/proxy.pac</string>
+			<string>https://aid666.github.io/tmp.pac</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 			<key>SSID_STR</key>
