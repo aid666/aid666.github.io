@@ -40,7 +40,7 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>AID.APPLETV</string>
+	<string>atv</string>
 	<key>PayloadIdentifier</key>
 	<string>aid666.46CA6740-8153-4DF0-9CC7-34D3C703181E</string>
 	<key>PayloadRemovalDisallowed</key>
