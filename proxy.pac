@@ -6,7 +6,7 @@ function FindProxyForURL(url, host)
       || shExpMatch(host, "*.ggpht.com*")
       || shExpMatch(host, "*.gstatic.com*")
    ) { 
-     return "PROXY 192.168.0.108:20080";
+     return "PROXY 192.168.0.110:20080";
    }
   
    return "DIRECT";   
