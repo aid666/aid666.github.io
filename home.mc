@@ -18,7 +18,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
+			<false/>
 			<key>ProxyPACFallbackAllowed</key>
 			<true/>
 			<key>ProxyPACURL</key>
@@ -30,13 +30,13 @@
 	<key>PayloadDisplayName</key>
 	<string>Home_Proxy_Config</string>
 	<key>PayloadIdentifier</key>
-	<string>aid666-3.C3E07116-C85D-48C8-AFEB-B9FA6A14E93E</string>
+	<string>aid666-mbp.C3E07116-C85D-48C8-AFEB-B9FA6A14E93E</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>D0D5400E-5CB8-4240-BF5B-939B9DEE188B</string>
+	<string>D0D5400E-5CB8-4240-BF5B-939B9DEE188C</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
